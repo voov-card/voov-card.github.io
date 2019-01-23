@@ -1,0 +1,11 @@
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,img { margin:0; padding:0; }
+img{border:0;}
+body{text-align:center;}
+li { list-style:none; }
+a { text-decoration:none;  }
+a:active { text-decoration:none; }
+
+object, del, sub, var { margin:0; padding:0; }
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+
+.displaynone{display:none;}
